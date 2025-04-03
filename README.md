@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. My name is Ammar and I work as a Data Scientist. I have a particular interest in causal inference and its applications in business
 
 <!--
 **awz1-max/awz1-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
